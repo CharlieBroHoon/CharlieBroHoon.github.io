@@ -1,0 +1,12 @@
+title: CharlieBroHoon
+description: 기록과 사유와 코드의 항해일지
+author: TaeHoon
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+    - jekyll-include-cache
+
+markdown: kramdown
+
+permalink: /:categories/:title/
